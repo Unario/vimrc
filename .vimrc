@@ -29,3 +29,4 @@ set foldmethod=syntax
 
 set ruler
 
+set textwidth=60        " line width = 60
